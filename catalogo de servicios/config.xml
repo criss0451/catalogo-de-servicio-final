@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.agenda-ej"
+    version   = "1.0.0">
+
+<name>catalogo de servicio con PhoneGap</name>
+
+<description>
+catalogo de servicio 
+</description>
+
+<author href="" email="">
+Universidad
+</author>
+<icon src="fantasy15.jpg" gap:density="ldpi" gap:platform="android" />
+<icon src="fantasy15.jpg" gap:density="mdpi" gap:platform="android" />
+<icon src="fantasy15.jpg" gap:density="hdpi" gap:platform="android" />
+<icon src="fantasy15.jpg" gap:density="xhdpi" gap:platform="android" />
+
+<plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
+
+
+</widget>
